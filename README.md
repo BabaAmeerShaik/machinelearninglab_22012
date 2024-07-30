@@ -44,9 +44,5 @@ A function that takes a matrix as input and returns its transpose.
 ## Repository Structure
 
 - `README.md`: This file, providing an overview and guidelines.
-- `solution.py`: Contains the solutions for the lab tasks, organized as functions.
-- `examples/`: Directory containing example input and output files (if applicable).
+- `Labl_CSE22012 Solutions.ipynb`: Contains the solutions for the lab tasks, organized as functions.
 
-## How to Run the Code
-
-1. Clone the repository:
